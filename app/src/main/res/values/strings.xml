@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyBilleteraVirtual</string>
+    <string name="tex1P1">Quiere ser cliente?</string>
+    <string name="btn1p1">Ingreso de clientes</string>
+
+
+    <string name="text1AHP">Bienvenido Donald!! </string>
+    <string name="text2AHP">Balance total al dia de hoy;</string>
+    <string name="text3AHP">USD $ 9.800.000 </string>
+    <string name="btn1AHP">Enviar Dinero </string>
+    <string name="btn23AHP">Actualizar Dinero </string>
+    <string name="text4AHP">Ultimas Trasnsacciones realizadas </string>
+</resources>
